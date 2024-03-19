@@ -167,13 +167,13 @@ plt.show()
 
 ### ii) Image Scaling
 <br>
-<br>![Screenshot 2024-03-19 113748](https://github.com/Aravindsamy04/IMAGE-TRANSFORMATIONS/assets/113497037/bd000e0f-7f6e-41a8-a243-8e412a77c50e)
 
-<br>
+<br>![Screenshot 2024-03-19 113748](https://github.com/Aravindsamy04/IMAGE-TRANSFORMATIONS/assets/113497037/b6bbb61f-c759-470c-86c4-cda0b9c4cc27)
+
 
 
 ### iii)Image shearing
-<br>
+
 <br>![Screenshot 2024-03-19 113844](https://github.com/Aravindsamy04/IMAGE-TRANSFORMATIONS/assets/113497037/157b95cd-fea1-4e71-9a21-89f7c9fb203b)
 <br>![Screenshot 2024-03-19 113856](https://github.com/Aravindsamy04/IMAGE-TRANSFORMATIONS/assets/113497037/9d7817b7-dd48-4403-a1fd-6fe9d6baa6bc)
 
@@ -181,13 +181,11 @@ plt.show()
 
 
 ### iv)Image Reflection
-<br>
-![Screenshot 2024-03-19 113944](https://github.com/Aravindsamy04/IMAGE-TRANSFORMATIONS/assets/113497037/7d9e51b6-a24c-49cf-8d47-25d98a157f16)
+<br>![Screenshot 2024-03-19 113944](https://github.com/Aravindsamy04/IMAGE-TRANSFORMATIONS/assets/113497037/2f4aa893-bcc4-4ddf-b69c-0afae06087bc)
+
+<br>![Screenshot 2024-03-19 113956](https://github.com/Aravindsamy04/IMAGE-TRANSFORMATIONS/assets/113497037/4bb115d4-b866-4710-b0b1-e1c8be4ee3c5)
 
 <br>
-<br>![Screenshot 2024-03-19 113956](https://github.com/Aravindsamy04/IMAGE-TRANSFORMATIONS/assets/113497037/ea7c3acf-1894-4d2c-93db-62dcaf443b0d)
-
-
 
 
 ### v)Image Rotation
@@ -200,9 +198,9 @@ plt.show()
 
 
 ### vi)Image Cropping
-<br>
-<br>
-<br> ![Screenshot 2024-03-19 113437](https://github.com/Aravindsamy04/IMAGE-TRANSFORMATIONS/assets/113497037/d10e071f-ca8c-447a-9660-3a437277b472)
+<br>![Screenshot 2024-03-19 114602](https://github.com/Aravindsamy04/IMAGE-TRANSFORMATIONS/assets/113497037/609b5886-f3bf-47ae-99ac-b1dbf78a3221)
+
+
 
 <br>
 
